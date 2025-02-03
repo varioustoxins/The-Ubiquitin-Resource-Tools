@@ -1,0 +1,41 @@
+UCL Experiments
+1mM 15N-labelled Ubiquitin
+50mM Phosphate pH5.8
+
+*     released files 
+1 etc tranche of released
+
+15N-labelled at 500MHz
+15N HSQC
+15N NOESY-HSQC watergate: 100ms
+15N TOCSY-HSQC watergate: 40,60,80,100ms mixing times
+
+15N-labelled at 600MHz
+* 1 15N HSQC                          hn_Nhsqc_600.fid   2D 1Η,15Ν HSQC
+    15N NOESY-HSQC watergate: 100ms
+
+
+15N/13C-labelled at 600MHz            dir                name in paper
+    CBCAcoNH
+    HAcacoNH
+    HNcaNH
+    HccoNH
+    hCcoNH
+* 1 HNCA                              hnca3d.fid         3D HNCA
+    HNcaCB                     
+* 1 HNCACB                            hncacb3d.fid       3D HNCACB
+* 1 HNcaCO                            hncaco3d.fid       3D HN(CA)CO
+* 1 HNCO                              hncco3d.fid        3D HNCO
+* 1 HNcoCA                            hncoca3d.fid       3D HN(CO)CA
+* 1 HNcocaCB                          hncocb3d.fid       3D HN(COCA)CB       
+
+15N/13C-labelled at 600MHz in 100% D2O
+13C CHSQC
+13C CT-CHSQC
+13C aroCHSQC
+13C aroCT-CHSQC
+13C aroCNOESY
+13C aroCTOCSY
+13C CNOESY
+HCCH-COSY
+HCCH-TOCSY

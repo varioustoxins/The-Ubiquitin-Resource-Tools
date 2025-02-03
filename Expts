@@ -1,0 +1,38 @@
+UCL Experiments
+1mM 15N-labelled Ubiquitin
+50mM Phosphate pH5.8
+
+15N-labelled at 500MHz
+15N HSQC
+15N NOESY-HSQC watergate: 100ms
+15N TOCSY-HSQC watergate: 40,60,80,100ms mixing times
+
+15N-labelled at 600MHz
+15N HSQC
+15N NOESY-HSQC watergate: 100ms
+
+
+15N/13C-labelled at 600MHz
+CBCAcoNH
+HAcacoNH
+HNcaNH
+HccoNH
+hCcoNH
+HNCA
+HNcaCB
+HNCACB
+HNcaCO
+HNCO
+HNcoCA
+HNcocaCB
+
+15N/13C-labelled at 600MHz in 100% D2O
+13C CHSQC
+13C CT-CHSQC
+13C aroCHSQC
+13C aroCT-CHSQC
+13C aroCNOESY
+13C aroCTOCSY
+13C CNOESY
+HCCH-COSY
+HCCH-TOCSY
